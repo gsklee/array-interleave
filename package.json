@@ -1,0 +1,13 @@
+{
+  "name": "array-interleave",
+  "version": "0.1.0",
+  "description": "",
+  "author": "G. Kay Lee <balancetraveller+github@gmail.com>",
+  "main": "main.js",
+  "keywords": [],
+  "devDependencies": {},
+  "engines": {
+    "iojs": ">=1.0.0"
+  },
+  "license": "MIT"
+}
